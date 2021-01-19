@@ -187,5 +187,5 @@ headerDiv.addEventListener('keyup', (event) => {
 createSearchBar();
 searchData()
 
-// The pagination funciton is tied to the search data function and invoked inline inside of this function
+// The pagination function is tied to the search data function and invoked inline inside of this function
 
